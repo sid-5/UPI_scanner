@@ -1,4 +1,4 @@
-# upi_canner
+# UPI_Sanner
 
 A new Flutter application.
 
